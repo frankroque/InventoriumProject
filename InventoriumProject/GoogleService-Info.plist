@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>991200232836-flhb2049n8u2suet4c969qbuf93u4sep.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.991200232836-flhb2049n8u2suet4c969qbuf93u4sep</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6-Ntmrx7wvLredTAtWrl6X76ZNPJptNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>991200232836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SWIFT-COMP350.InventoriumProject</string>
+	<key>PROJECT_ID</key>
+	<string>inventorium-85faa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inventorium-85faa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:991200232836:ios:819696b45eac472724c9d1</string>
+	<key>DATABASE_URL</key>
+	<string>https://inventorium-85faa.firebaseio.com</string>
+</dict>
+</plist>
